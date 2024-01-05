@@ -24,7 +24,8 @@ This repo contains some config files that help easily recreate specific VSCode d
 To use the Python profile:
 
 1. Clone the repo
-2. Import the `Python.code-profile` file into VSCode
+2. Install the [JetBrains Mono Font](https://www.jetbrains.com/lp/mono/) on your system
+3. Import the `Python.code-profile` file into VSCode
   
 
 <img style="margin:40px auto; display: block" src=".github/assets/image.png">
