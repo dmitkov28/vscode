@@ -3,6 +3,8 @@ This repo contains some config files that help easily recreate specific VSCode d
 
 ## Python Setup
 
+<img style="margin:40px auto; display: block" src="./.github/assets/python-demo.gif">
+
 **Theme**: [PyCharm Dark](https://marketplace.visualstudio.com/items?itemName=nicohlr.pycharm)
 
 **Extensions**:
